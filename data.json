@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "pavan",
+      "city": "hyderbad"
+    },
+    {
+      "id": 2,
+      "name": "sai",
+      "city": "mumbai"
+    },
+    {
+      "id": "3",
+      "name": "vijay",
+      "city": "pune"
+    },
+    {
+      "id": "4 ",
+      "name": "rajesh",
+      "city": "chennai"
+    },
+    {
+      "id": "5 ",
+      "name": "sankar ",
+      "city": "gurgan"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+    "books":[
+  
+  {
+      "id":1,
+  "name":"NATION &NOVEL",
+  "author":"PATRICK PARRINDER",
+  "Price":800,
+  "Description":"the english novel  from its origins to the present day",
+  "pages":"540",
+  "Type":"hardcover",
+  "image":"http://localhost:8090/img1.jpg"
+   } ,
+  
+  {
+      "id":2,
+  "name":"HAPPY ACCIDENT",
+  "author":"M.HAMID ANSARI",
+  "Price":458,
+  "Description":"RECOLLECTION OF A LIFE",
+  "pages":"238",
+  "Type":"paperback",
+  "image":"http://localhost:8090/img2.jpg"
+   },
+  
+  {
+      "id":2,
+  "name":"GHANDHI  AN AUTOBIOGRPHY",
+  "author":"SISSELA BOK",
+  "Price":"500/-",
+  "Description":"THE STORY OF MY  EXPERIMENTS WITH TRUTH",
+  "pages":"670",
+  "Type":"hardcover",
+  "image":"http://localhost:8090/img3.jpg"
+   }
+  ,
+  
+  {
+      "id":4,
+  "name":"JAWHAR LAL NEHRU",
+  "author":"SUNIL KHILANI",
+  "Price":"560",
+  "Description":"THE DISCOVERY OF INDIA",
+  "pages":"420",
+  "Type":"paperback",
+  "image":"http://localhost:8090/img4.jpg"
+   }
+  ,
+  {
+      "id":5,
+  "name":"MY LIFE AND STRUGGLE",
+  "author":"BADSHAN KHAN",
+  "Price":"800",
+  "Description":"THE STORY OF FRONTIER GHANDI A LEGEND OF COURAGE & PATROTISAM",
+  "pages":"330",
+  "Type":"paperback",
+  "image":"http://localhost:8090/img5.jpg"
+   },{
+      "id":6,
+  "name":"LONG WALK TO FREEDOM",
+  "author":"NELSON MONDELA",
+  "Price":"920/-",
+  "Description":"the WAY WE TRATE OTHERS EVEN AT BAD SITUATIONS",
+  "pages":"580",
+  "Type":"hardcover",
+  "image":"http://localhost:8090/img6.jpg"
+   },
+{
+      "id":7,
+  "name":"LONG WALK TO FREEDOM",
+  "author":"NELSON MONDELA",
+  "Price":"920/-",
+  "Description":"the WAY WE TRATE OTHERS EVEN AT BAD SITUATIONS",
+  "pages":"580",
+  "Type":"hardcover",
+  "image":"http://localhost:8090/im7.jpg"
+   }
+  
+  
+  
+  ]
+  }

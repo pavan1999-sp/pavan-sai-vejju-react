@@ -1,0 +1,26 @@
+#container{
+    overflow: hidden;
+  }
+  
+  #content{
+    overflow :hidden;
+  }
+  h1{
+   
+      color:  rgb(9, 59, 59);
+      background-color: rgb(109, 236, 236);
+      text-align: center;
+      
+  }
+
+  .dd{
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+  
+  }
+  img{
+    width: 400px;
+    height: 210px;
+  }
